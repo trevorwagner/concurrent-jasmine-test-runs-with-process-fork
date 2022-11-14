@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-concurrent-async-tests",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "framework": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
